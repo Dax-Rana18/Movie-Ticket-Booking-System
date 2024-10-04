@@ -1,0 +1,30 @@
+[
+  {
+    "firstName": "Charu",
+    "lastName": "mittal",
+    "phone": "12345678910",
+    "email": "charu123@gmail.com",
+    "password": "123456789"
+  },
+  {
+    "firstName": "abcd",
+    "lastName": "efgh",
+    "phoneNumber": "12345678910",
+    "email": "abc@gmail",
+    "password": "987654321"
+  },
+  {
+    "firstName": "def",
+    "lastName": "abc",
+    "phoneNumber": "123445678910",
+    "email": "acs@gmail.com",
+    "password": "123456789"
+  },
+  {
+    "firstName": "qwe",
+    "lastName": "ghf",
+    "phoneNumber": "12345678910",
+    "email": "abc@gmail",
+    "password": "123456789"
+  }
+]
